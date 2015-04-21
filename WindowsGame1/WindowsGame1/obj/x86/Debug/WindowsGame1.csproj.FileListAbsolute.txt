@@ -1,0 +1,117 @@
+c:\users\maxc\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\maxc\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\maxc\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+c:\users\maxc\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+c:\users\maxc\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+c:\users\maxc\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+c:\users\maxc\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\SpriteFont1.xnb
+c:\users\maxc\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\fon.xnb
+c:\users\maxc\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Back.xnb
+c:\users\maxc\documents\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Shot.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Enemy.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ScoreFont.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Back2.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Effect1.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\part1.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\part2.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\part3.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Tile.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\BackgroundGame.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\final_pat.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\shovless.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Enginee2r.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\dialog.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DialogBuble.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DialogFont.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ScoreFont2.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Snow1.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Snow2.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Snow3.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\charsetc.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\elf.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Mao.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\tank1.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\tank2.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\tank3.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\helicopter.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\helicopter_enemy.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\HitMessageFont.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ScoreFont.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DialogFont.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ScoreFont2.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\HitMessageFont.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\fon.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Back.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Enemy.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Back2.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\part1.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\part2.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\part3.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Tile.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\BackgroundGame.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Shot.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\final_pat.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\shovless.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Enginee2r.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\dialog.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DialogBuble.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Snow1.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Snow2.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Snow3.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\charsetc.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\elf.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Mao.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\tank1.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\tank2.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\tank3.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\helicopter.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\helicopter_enemy.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Effect1.xnb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maxc\Documents\Visual Studio 2010\Projects\Projects\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\SpriteFont1.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\SpriteFont2.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ScoreFont.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DialogFont.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ScoreFont2.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\HitMessageFont.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\fon.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Back.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Enemy.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Back2.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\part1.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\part2.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\part3.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Tile.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\BackgroundGame.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Shot.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\final_pat.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\shovless.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Enginee2r.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\dialog.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\DialogBuble.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Snow1.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Snow2.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Snow3.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\charsetc.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\elf.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Mao.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\tank1.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\tank2.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\tank3.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\helicopter.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\helicopter_enemy.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Effect1.xnb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+G:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+G:\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+G:\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
